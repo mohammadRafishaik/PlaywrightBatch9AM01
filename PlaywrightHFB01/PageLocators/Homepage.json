@@ -1,0 +1,10 @@
+{
+    "usrx":"//input[@name='txtUserName']",
+    "pswx":"//input[@name='txtPassword']",
+    "Lbtnx":"//input[@name='Submit']",
+    "Wut":"//li[text()='Welcome playwright']",
+    "pim":"//span[text()='PIM']",
+    "Addemployee":"//span[text()='Add Employee']",
+    "addemployeeframe":"iframe",
+    "lastname":"//input[@id='txtEmpLastName']"
+}
